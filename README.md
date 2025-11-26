@@ -35,7 +35,7 @@ This project demonstrates real-world usage of structures, pointers, file handlin
 
 Compile
 ```bash
-gcc main.c contact.c create.c edit.c delete.c search.c sort.c -o addressbook
+gcc *.c -o addressbook
 ```
 
 Run
